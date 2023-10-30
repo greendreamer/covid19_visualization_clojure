@@ -6,7 +6,7 @@ data repository (datos.gov.co)
 
 This project is published on github pages, the web report can be found here:
 
-https://papachan.github.io/data-covid19-colombia/
+https://greendreamer.github.io/data-covid19-colombia/
 
 ### Data repository
 
@@ -16,19 +16,15 @@ https://github.com/papachan/data-covid19-colombia/tree/master/data
 
 * A daily report using json format for charts:
 
-https://papachan.github.io/data-covid19-colombia/datos.json
-
-Complete version (5 mb)
-
-https://raw.githubusercontent.com/papachan/data-covid19-colombia/master/resources/datos.json
+https://greendreamer.github.io/data-covid19-colombia/datos.json
 
 * Timeseries Deaths and Cases (Json format)
 
-https://papachan.github.io/data-covid19-colombia/timeseries.json
+https://greendreamer.github.io/data-covid19-colombia/timeseries.json
 
 * Number of Covid Tests (json format)
 
-https://papachan.github.io/data-covid19-colombia/covid-tests.json
+https://greendreamer.github.io/data-covid19-colombia/covid-tests.json
 
 
 ### URLs and related links
@@ -77,8 +73,3 @@ Release a new build for github pages:
 ```
     shadow-cljs -A:release release app
 ```
-
-
-### Copyright
-
-Copyright (C) 2020 Dan Loaiza <papachan@gmail.com>
